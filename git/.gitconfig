@@ -1,0 +1,10 @@
+[user]
+	email = alan.eckhardt@memsource.com
+	name = Alan Eckhardt
+[color]
+        ui = auto
+
+[core]
+    excludesfile = ~/.gitignore
+[push]
+	default = current

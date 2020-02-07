@@ -1,0 +1,10 @@
+.*.swp
+*~
+.DS_Store
+
+*.pyc
+*.mdb
+*.mdb-lock
+experiments
+.cache
+.idea
